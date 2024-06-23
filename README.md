@@ -40,8 +40,10 @@ sudo ufw allow 1935
 <h3>
   Nginx-1.17.10とnginx-rtmp-moduleのインストール
 </h3>
-<a href="https://github.com/arut/nginx-rtmp-module/wiki/Getting-started-with-nginx-rtmp#set-up-live-streaming">引用元
-</a>
+<p>
+  <a href="https://github.com/arut/nginx-rtmp-module/wiki/Getting-started-with-nginx-rtmp#set-up-live-streaming">引用元</a>
+</p>
+
 ビルドユーティリティのインストール
 
 ```

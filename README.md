@@ -71,7 +71,9 @@ nginxのダウンロードと解凍
 ```
 
 sudo wget http://nginx.org/download/nginx-1.17.10.tar.gz
+
 sudo tar xzf nginx-1.17.10.tar.gz
+
 cd nginx-1.17.10
 
 ```
@@ -97,6 +99,7 @@ nginxのインストール
 ```
 
 sudo make
+
 sudo make install
 
 ```
@@ -126,7 +129,9 @@ sudo /usr/local/nginx/sbin/nginx -s stop
 ```
 
 cd /usr/local/nginx/
+
 sudo mv html old-html
+
 sudo mv conf old-conf
 
 ```
@@ -146,10 +151,15 @@ sudo git clone https://github.com/ustoopia/Live-stream-server-portable-Windows-N
 ```
 
 sudo mv Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash RTMP-server
+
 sudo mv RTMP-server/conf conf
+
 sudo mv RTMP-server/html site
+
 sudo mv RTMP-server/logs logs
+
 sudo mv RTMP-server/recordings recordings
+
 sudo mv RTMP-server/temp temp
 
 ```

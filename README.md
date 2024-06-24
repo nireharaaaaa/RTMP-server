@@ -156,7 +156,7 @@ sudo mv Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash RTMP-server
 
 sudo mv RTMP-server/conf conf
 
-sudo mv RTMP-server/html site
+sudo mv RTMP-server/site site
 
 sudo mv RTMP-server/logs logs
 

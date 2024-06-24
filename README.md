@@ -174,6 +174,8 @@ sudo /usr/local/nginx/sbin/nginx
 
 ```
 
+サーバーの再起動をすると、Nginxがエラーを吐きます。そしたら、古いファイルを削除して「Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dashのダウンロード」からやり直せば、復旧します。
+<br />
 使用法は、<a href="https://github.com/ustoopia/Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash">こちら</a>を参照してください。
 <br />
 あくまで、素人が勘で作ったものですので詳しくはプロへお問い合わせください（投げやり）
